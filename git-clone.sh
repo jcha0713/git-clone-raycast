@@ -7,7 +7,7 @@
 
 # Optional parameters:
 # @raycast.icon 📦
-# @raycast.argument1 { "type": "text", "placeholder": "directory" }
+# @raycast.argument1 { "type": "text", "placeholder": "directory", "optional": true }
 
 # Documentation:
 # @raycast.description run git clone with copied link
